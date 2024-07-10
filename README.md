@@ -1,15 +1,25 @@
-# Shoes
- Add short description of project here > 
+# Shoe Types using NVIDIA
 
-![add image descrition here](direct image link here)
+Ever curious as to what type of shoes you wear? Probably not, but if were interested, you can use the AI program to fulfill your curiousity.
 
-## The Algorithm
+![Boat Shoe](https://github.com/Aidan361/Shoes/assets/175229980/05d8f318-48f8-4d7e-b312-9d0229042b99)
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+## The Algorithm and how it Works
 
-## Running this project
+It takes a photo of some shoes that you give it, and detects what kind of shoes they are. It detects several types of shoes such as Sneakers or Boat Shoes, but not all types of shoes.
+Included Shoe Types:
+ - Ballet Flat Shoes
+ - Boat Shoes
+ - Brogue Shoes
+ - Clog Shoes
+ - Sneakers
+As a side note, the project 
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+## Running The Algorithm
+
+1. Download the files and libraries to the project.
+2. Take a Picture of some shoes.
+3. Upload the shoes into the program.
+4. Let the program classify the shoes.
 
 [View a video explanation here](video link)
