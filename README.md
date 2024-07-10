@@ -20,6 +20,4 @@ As a side note, the project
 1. Download the files and libraries to the project.
 2. Take a Picture of some shoes.
 3. Upload the shoes into the program.
-4. Let the program classify the shoes.
-
-[View a video explanation here](video link)
+4. Wait until its done, then pull up the image with its shoe type.
