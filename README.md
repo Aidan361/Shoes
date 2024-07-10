@@ -13,11 +13,14 @@ Included Shoe Types:
  - Brogue Shoes
  - Clog Shoes
  - Sneakers
-As a side note, the project 
 
 ## Running The Algorithm
 
-1. Download the files and libraries to the project.
-2. Take a Picture of some shoes.
-3. Upload the shoes into the program.
-4. Wait until its done, then pull up the image with its shoe type.
+1. Setup and install Jetson Nano and VSCode
+2. Connect Jetson Nano to your computer hotspot, write down your Jetson Nano's IP for later use
+3. Connect your VSCode to your jetson nano with 'ssh nvidia@IPAddress'
+4. Open the NVIDIA home folder
+5. Open terminal and use 'cd jetson-inference/python/training/classification' to enter the needed directory
+6. Use 'DATASET=data/FOLDER_NAME' to set NET and DATASET for later use, replace FOLDER_NAME with whatever the file you create
+7. Move the picture you're using into 'classification' folder
+8. Run the model 'imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt IMAGE_RELATIVE_PATH output/FILE_OUTPUT_NAME' Replace IMAGE_RELATIVE_PATH of your image and IMAGE_OUTPUT_NAME with the name of the output image.
