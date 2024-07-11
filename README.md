@@ -24,4 +24,4 @@ Included Shoe Types:
 6. Use 'DATASET=data/FOLDER_NAME' to set NET and DATASET for later use, replace FOLDER_NAME with whatever the file you create
 7. Move the picture you're using into 'classification' folder
 8. Run the model 'imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt IMAGE_RELATIVE_PATH output/FILE_OUTPUT_NAME' Replace IMAGE_RELATIVE_PATH of your image and IMAGE_OUTPUT_NAME with the name of the output image.
-(https://drive.google.com/file/d/19TjyEoF8sYjy1ya8WulwCh3freyGJyQH/view?usp=sharing)
+https://drive.google.com/file/d/19TjyEoF8sYjy1ya8WulwCh3freyGJyQH/view?usp=sharing
