@@ -2,7 +2,7 @@
 
 Ever curious as to what type of shoes you wear? Probably not, but if were interested, you can use the AI program to fulfill your curiousity.
 
-![Boat Shoe](https://github.com/Aidan361/Shoes/assets/175229980/05d8f318-48f8-4d7e-b312-9d0229042b99)
+![Shoe](https://vscode-remote+ssh-002dremote-002b192-002e168-002e137-002e122.vscode-resource.vscode-cdn.net/home/nvidia/jetson-inference/python/training/classification/output/0.jpg?version%3D1720706458051)
 
 ## The Algorithm and how it Works
 
